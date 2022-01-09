@@ -2,6 +2,9 @@
 A collection of assets that were used during the Oldboat project's development. You can find each package's use
 below.
 
+Got questions? Join our Discord.
+https://oldlbsg.net
+
 ## arenas
 Each arena has unique properties required for the game to properly function. These properties are stored in the
 `arenas` package. The specification is as follows:
