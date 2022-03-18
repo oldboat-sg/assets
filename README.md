@@ -29,6 +29,6 @@ such as Origins.
 ## structures
 Various `mcstructure` files, used for various purposes.
 
-Most notably, the `deathmatch_arena.mcstructure` is used for enerating death match arenas, as they're generated in the
+Most notably, the `deathmatch_arena.mcstructure` is used for generating death match arenas, as they're generated in the
 same world being played in, and only at the end of the match. The position it is generated at is reliant on the arena
 properties, under the `death_match_position` key.
